@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.App-main {
+  background-color: rgb(187, 181, 181);
+  padding: 2%;
+  margin: 3%;
+}
+.App-picture {
+  height: 6em;
+}
+.App-box {
+  background-color: rgb(28, 170, 158);
+  margin: 2%;
+  font-weight: bold;
+}
