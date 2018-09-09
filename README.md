@@ -4,9 +4,9 @@ Tuve que replicar la siguiente imagen usando React
 
 ![Ejercicio-react](https://i.imgur.com/HOXlvca.png)
 
-#### Resultado
+<!-- #### Resultado
 
 Este fue el primer ejercicio que realicé con React. 
 
 [Lista de personajes SouthPark]()
-
+ -->
