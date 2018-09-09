@@ -7,14 +7,10 @@ import Main from './components/Main';
 class App extends Component {
   render() {
     return (
-    <body>
       <div>
         <Header />
-        </div>
-      <div>
         <Main />
         </div>
-      </body>
     );
   }
 }

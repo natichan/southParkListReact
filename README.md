@@ -7,5 +7,6 @@ Tuve que replicar la siguiente imagen usando React
 #### Resultado
 
 Este fue el primer ejercicio que realicé con React. 
+
 [Lista de personajes SouthPark]()
 

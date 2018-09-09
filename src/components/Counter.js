@@ -3,7 +3,11 @@ import '../App.css';
 
 class Counter extends Component {
   render() {
-    return 
+    return (
+        <div>
+            
+      </div>
+    );
   }
 }
 

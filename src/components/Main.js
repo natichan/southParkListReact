@@ -8,6 +8,7 @@ class Main extends Component {
 }, {nombre: 'Kyle Broflovski', foto: 'https://upload.wikimedia.org/wikipedia/en/2/25/KyleBroflovski.png'
 }, {nombre: 'Kenny McCormick', foto: 'https://vignette.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/latest?cb=20160409020502'
 }];
+let counter = 1;
     return (
       <div className='App-main'>
           {
@@ -15,7 +16,7 @@ class Main extends Component {
                 return (
                   <div className='App-box'>
                     <h4 className='App'>Información</h4>
-                    <p>{element.nombre}</p>
+                    <p>Tarjeta n°{counter++} {element.nombre} </p>
                     <img className= 'App-picture' src={element.foto} alt=''/>
                   </div>   
                 )
